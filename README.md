@@ -3,11 +3,15 @@
 A Skill to help you set up your profile on Cowork, with questions to guide you along the way.
 
 ##Background
+
 I am not technical. I love Cowork. I want to share what I have built so others can experience it too
+
 
 This template has the same categories my skill has, empty for you to fill in
 
+
 ##What's inside
+
 Cowork-profile-setup.skill - the template
 
 It has three sections
